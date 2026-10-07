@@ -1,0 +1,9 @@
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+tensorflow>=2.16.0
+keras>=3.0.0
+matplotlib>=3.8.0
+python-pptx>=1.0.0
+nbformat>=5.10.0
+
