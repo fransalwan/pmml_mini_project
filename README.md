@@ -11,8 +11,9 @@
 | No | Nama Anggota | NIM | Peran Utama & Jobdesc |
 |:---:|:---|:---:|:---|
 | 1 | **FRANS ALWAN PURBA** | **25/563545/PPA/07116** | **Data Preprocessing & Validation Scheme**: Eksplorasi dataset sekunder UCI Breast Cancer, standardisasi fitur (`StandardScaler`) anti-data leakage, perancangan skema *Stratified 5-Fold Cross-Validation*, serta implementasi arsitektur Model 1 (*Baseline Shallow MLP*). |
-| 2 | **Muhammad Fikry Rizal** | **25/573936/PPA/07229** | **Deep Learning Architecture & Regularization**: Perancangan *Deep MLP* bertingkat (3 hidden layers), *Regularized Deep MLP* dengan *Batch Normalization*, *Dropout*, dan *L2 Weight Decay*, serta arsitektur mutakhir *Deep Residual MLP* (*ResMLP*) dengan *Skip Connections* dan aktivasi GELU. Eksperimen *Optimizer* dan *Learning Rate Tuning*. |
-| 3 | **Sidikara Hakim** | **25/573720/PPA/07221** | **Comprehensive Experiments & Clinical Evaluation**: Evaluasi metrik performa (*Accuracy, Precision, Recall/Sensitivity, Specificity, F1-Score, ROC-AUC*), analisis klinis *False Negative* vs *False Positive*, pembuatan visualisasi saintifik (*Learning Curves, Confusion Matrix, ROC curves*), serta penyusunan slide presentasi 12 halaman dan dokumentasi teknis. |
+| 2 | **Muhammad Fikry Rizal** | **25/573936/PPA/07229** | **Deep MLP Architecture & Optimizer Tuning**: Perancangan *Deep MLP* bertingkat (3 hidden layers: 128-64-32), eksperimen komparasi *optimizer* (Adam, RMSprop, SGD Nesterov Momentum), serta analisis sensitivitas laju pembelajaran (*Learning Rate*). |
+| 3 | **Rafel Romero Hirawanto** | **25/573260/PPA/07216** | **Regularization & Deep Residual Network**: Desain *Regularized Deep MLP* dengan *Batch Normalization*, *Dropout*, dan *L2 Weight Decay*, perancangan arsitektur modern *Deep Residual MLP* (*ResMLP*) dengan *Skip Connections* dan fungsi aktivasi non-linear GELU, serta analisis mitigasi *overfitting*. |
+| 4 | **Sidikara Hakim** | **25/573720/PPA/07221** | **Comprehensive Experiments & Clinical Evaluation**: Evaluasi metrik performa (*Accuracy, Precision, Recall/Sensitivity, Specificity, F1-Score, ROC-AUC*), analisis klinis *False Negative* vs *False Positive*, pembuatan visualisasi saintifik (*Learning Curves, Confusion Matrix, ROC curves*), serta penyusunan slide presentasi 12 halaman dan dokumentasi teknis. |
 
 ---
 
